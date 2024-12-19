@@ -20,5 +20,4 @@ fn main() {
     println!("The sum is {}", result);
     nice(3);
     nice_plus(3);
-
 }
